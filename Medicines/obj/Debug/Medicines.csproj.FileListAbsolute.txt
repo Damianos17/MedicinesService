@@ -1,0 +1,85 @@
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\Medicines.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\Medicines.pdb
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\EntityFramework.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\Microsoft.Web.Infrastructure.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.Helpers.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.Mvc.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.Providers.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.Razor.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.WebPages.Deployment.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.WebPages.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.WebPages.Razor.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\EntityFramework.xml
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.Helpers.xml
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.Mvc.xml
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.Razor.xml
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.WebPages.xml
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.WebPages.Deployment.xml
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\bin\System.Web.WebPages.Razor.xml
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\obj\Debug\Medicines.csprojResolveAssemblyReference.cache
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\obj\Debug\Medicines.dll
+c:\users\damian\documents\visual studio 2012\Projects\Medicines\Medicines\obj\Debug\Medicines.pdb
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\Medicines.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\Medicines.pdb
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\EntityFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.Helpers.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.Mvc.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.Providers.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.WebPages.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\EntityFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.Helpers.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.Mvc.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.WebPages.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\obj\Debug\Medicines.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\obj\Debug\Medicines.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Etap II\Medicines\obj\Debug\Medicines.pdb
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\Medicines.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\Medicines.pdb
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\EntityFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.Helpers.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.Mvc.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.Providers.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.WebPages.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\EntityFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.Helpers.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.Mvc.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.WebPages.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\obj\Debug\Medicines.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\obj\Debug\Medicines.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\Medicines - Robocza\Medicines\obj\Debug\Medicines.pdb
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\Medicines.dll.config
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\Medicines.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\Medicines.pdb
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\EntityFramework.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.Helpers.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.Mvc.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.Providers.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.WebPages.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\EntityFramework.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.Helpers.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.Mvc.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.WebPages.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\obj\Debug\Medicines.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\obj\Debug\Medicines.dll
+C:\Users\Damian\Documents\Visual Studio 2012\Projects\MedicinesKMD\Medicines\obj\Debug\Medicines.pdb
